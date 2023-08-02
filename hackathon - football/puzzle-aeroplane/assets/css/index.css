@@ -1,0 +1,62 @@
+#flight {
+  position: absolute;
+  top: 700px;
+  left: 817;
+  height: 130px;
+
+}
+
+#main {
+
+  width: 99vw;
+  height: 99vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#bird0 {
+  z-index: 10000;
+  margin-left: -150px;
+  top: 190px;
+
+  height: 110px;
+  position: absolute;
+}
+
+#bird1 {
+  z-index: 10000;
+  margin-right: 200px;
+  margin-left: -400px;
+  top: 190px;
+
+  height: 110px;
+  position: absolute;
+}
+
+
+#bird2 {
+  z-index: 10000;
+  margin-left: 100px;
+
+  top: 190px;
+
+  height: 110px;
+  position: absolute;
+}
+
+#bird3 {
+  z-index: 10000;
+  margin-left: 400px;
+
+  top: 190px;
+
+  height: 110px;
+  position: absolute;
+}
+
+#imageContent {
+  justify-content: center;
+  display: flex;
+
+}
